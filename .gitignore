@@ -1,0 +1,6 @@
+.npmignore
+config.xml
+package.json
+hooks
+platforms
+plugins
